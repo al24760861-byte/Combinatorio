@@ -1,3 +1,12 @@
+/*
+Matricula: 24760861
+Nombre: Alejandra Quintero Villa 
+Carrera: Ingenieria Sistemas Computacionales
+Materia: Estructura de datos
+Profesor:Guillermo Alejandro, Chavez Sanchez
+
+/*
+
 package main
 
 import (
